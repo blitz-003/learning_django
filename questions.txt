@@ -1,0 +1,4 @@
+1） why delete and update, get and post is enough
+2) why is ajax used in the video then post
+
+enlightenment, freedom, happiness
